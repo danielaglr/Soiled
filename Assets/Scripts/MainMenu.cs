@@ -5,14 +5,5 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-    public void PlayGame()
-    {
 
-    };
-
-    public void QuitGame()
-    {
-        Debug.log("Quit function ran");
-        Application.Quit();
-    };
-}
+};
